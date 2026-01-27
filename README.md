@@ -42,6 +42,14 @@ Welcome to my certifications repository! This repository serves as a collection 
 
 ---
 
+## Conference Papers
+
+| Conference/Event | Certificate |
+| :--- | :--- |
+| **National Level Conference** | [View Certificate](./Conference-Paper/National_Conference_Paper.jpeg) |
+
+---
+
 ## General
 
 | Certification | Issuing Organization | Certificate |
