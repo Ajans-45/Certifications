@@ -8,11 +8,11 @@ Welcome to my certifications repository! This repository serves as a collection 
 
 | Certification | Issuing Organization | Certificate |
 | :--- | :--- | :--- |
-| **3-Days Wireshark Challenge** | - | [View Certificate](./Cybersecurity/3-Days-Wireshark-Challenge/3days%20wireshark%20challenge.png) |
-| **Certified Penetration Tester** | RedTeamHacker | [View Certificate](./Cybersecurity/Certified-Penetration-Tester/Ajans.S_Certified-Pentester-RedTeamHacker.jpg) |
+| **3-Days Wireshark Challenge** | HaxSecurity | [View Certificate](./Cybersecurity/3-Days-Wireshark-Challenge/3days%20wireshark%20challenge.png) |
+| **Certified Penetration Tester** | RedTeamHacker Academy | [View Certificate](./Cybersecurity/Certified-Penetration-Tester/Ajans.S_Certified-Pentester-RedTeamHacker.jpg) |
 | **CyberSecurity and Applied Ethical Hacking** | Infosys | [View Certificate](./Cybersecurity/Infosys-CyberSecurity-and-Applied-Ethical-Hacking/Infosys_Cyber.pdf) |
-| **Introduction to API Pentesting and Bug Bounty 101** | - | [View Certificate](./Cybersecurity/Introduction-to-API-Pentesting-and-Bug-bounty-101/API-Pentesting-Bugbounty-101-Certificate.png) |
-| **Introduction to Kali Linux** | - | [View Certificate](./Cybersecurity/Introduction-to-Kali-Linux-Basic/kalilinux.png) |
+| **Introduction to API Pentesting and Bug Bounty 101** | Cappriciosec University | [View Certificate](./Cybersecurity/Introduction-to-API-Pentesting-and-Bug-bounty-101/API-Pentesting-Bugbounty-101-Certificate.png) |
+| **Introduction to Kali Linux** | Simplilearn | [View Certificate](./Cybersecurity/Introduction-to-Kali-Linux-Basic/kalilinux.png) |
 | **Cyber Security and Privacy** | NPTEL | [View Certificate](./Cybersecurity/NPTEL-CyberSecurity-And-Privacy/Cyber%20Security%20and%20Privacy.pdf) |
 | **Practical Cyber Security for Cyber Security Practitioners** | NPTEL | [View Certificate](./Cybersecurity/NPTEL-Practical_Cyber_Security_for_Cyber_Security/Practical%20Cyber%20Security%20for%20Cyber%20Security%20Practitioners.pdf) |
 | **SQL Injection** | Udemy | [View Certificate](./Cybersecurity/SQL-Injection/sql%20injection-udemy.jpg) |
@@ -46,6 +46,6 @@ Welcome to my certifications repository! This repository serves as a collection 
 
 | Certification | Issuing Organization | Certificate |
 | :--- | :--- | :--- |
-| **Introduction to MongoDB** | - | [View Certificate](./General/Introduction-to-MongoDB/mongoDbcertificate.png) |
+| **Introduction to MongoDB** | MongoDB | [View Certificate](./General/Introduction-to-MongoDB/mongoDbcertificate.png) |
 | **Python 101 for Data Science** | IBM | [View Certificate](./General/Python-101-for-Data-Science/IBM%20Python%20101%20Certificate%20_%20Cognitive%20Class.pdf) |
-| **Research Methodology** | - | [View Certificate](./General/Research_Methodology/research_methodology.pdf) |
+| **Research Methodology** | Simplilearn | [View Certificate](./General/Research_Methodology/research_methodology.pdf) |
