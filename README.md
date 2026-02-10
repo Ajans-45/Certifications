@@ -30,6 +30,7 @@ Welcome to my certifications repository! This repository serves as a collection 
 | **ThunderCipher - CVE-2025-55182** | [View Certificate](./CTF/ThunderCipher/certificate_ajfiaz_CVE-2025-55182.jpeg) |
 | **ThunderCipher - Deathnote** | [View Certificate](./CTF/ThunderCipher/certificate_ajfiaz_deathnote.jpeg) |
 | **ThunderCipher - Easy Login** | [View Certificate](./CTF/ThunderCipher/certificate_ajfiaz_easylogin.jpeg) |
+| **Claw CTF** | [View Certificate](./CTF/Claw-CTF/clawCTF.jpeg) |
 
 ---
 
