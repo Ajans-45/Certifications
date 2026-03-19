@@ -31,6 +31,7 @@ Welcome to my certifications repository! This repository serves as a collection 
 | **ThunderCipher - Deathnote** | [View Certificate](./CTF/ThunderCipher/certificate_ajfiaz_deathnote.jpeg) |
 | **ThunderCipher - Easy Login** | [View Certificate](./CTF/ThunderCipher/certificate_ajfiaz_easylogin.jpeg) |
 | **Claw CTF** | [View Certificate](./CTF/Claw-CTF/clawCTF.jpeg) |
+| **CyberTron CTF** | [View Certificate](./CTF/CyberTron-CTF/certificate.jpeg) |
 
 ---
 
@@ -38,16 +39,26 @@ Welcome to my certifications repository! This repository serves as a collection 
 
 | Internship | Company | Certificate |
 | :--- | :--- | :--- |
-| **Internship Completion** | ElevateLabs | [View Certificate](./Internships/ElevateLabs-Intern_Completion/Elevatelabs_intership_completion.jpg) |
+| **Cybersecurity Internship Completion** | ElevateLabs | [View Certificate](./Internships/ElevateLabs-Intern_Completion/Elevatelabs_intership_completion.jpg) |
 | **Cybersecurity Internship Completion** | Supraja | [View Certificate](./Internships/Supraja_Internship_Completion/Cybersecurity_Internship_completion.pdf) |
 
 ---
 
-## Conference Papers
+## Research Paper
 
 | Conference/Event | Certificate |
 | :--- | :--- |
-| **National Level Conference** | [View Certificate](./Conference-Paper/National_Conference_Paper.jpeg) |
+| **Jeppiar-ICSHAI 2026** | [View Certificate](./Research-Paper/Internation%20Conferences/Jeppiar-ICSHAI_2026.jpeg) |
+| **SRM-AISDSC'25** | [View Certificate](./Research-Paper/National%20Conferences/SRM-AISDSC'25.jpeg) |
+
+---
+
+## Hackathons
+
+| Event | Certificate |
+| :--- | :--- |
+| **Infothon DDGD Vaishnav** | [View Certificate](./Hackathons/2026-02-18_infothon_ddgd-vaishnav/certificate.jpeg) |
+| **Ideathon Veltech** | [View Certificate](./Hackathons/2026-02-19_ideathon_veltech/ideathon-veltech-certificate.jpeg) |
 
 ---
 
