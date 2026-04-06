@@ -32,6 +32,7 @@ Welcome to my certifications repository! This repository serves as a collection 
 | **ThunderCipher - Easy Login** | [View Certificate](./CTF/ThunderCipher/certificate_ajfiaz_easylogin.jpeg) |
 | **Claw CTF** | [View Certificate](./CTF/Claw-CTF/clawCTF.jpeg) |
 | **CyberTron CTF** | [View Certificate](./CTF/CyberTron-CTF/certificate.jpeg) |
+| **UNI6CTF** | [View Certificate](./CTF/UNI6CTF/UNI6CTF.pdf) |
 
 ---
 
