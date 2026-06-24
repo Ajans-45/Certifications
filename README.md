@@ -33,6 +33,8 @@ Welcome to my certifications repository! This repository serves as a collection 
 | **Claw CTF** | [View Certificate](./CTF/Claw-CTF/clawCTF.jpeg) |
 | **CyberTron CTF** | [View Certificate](./CTF/CyberTron-CTF/certificate.jpeg) |
 | **UNI6CTF** | [View Certificate](./CTF/UNI6CTF/UNI6CTF.pdf) |
+| **SecLeaf CTF** | [View Certificate](./CTF/SecLeaf-CTF/SecLeaf_CTF.jpeg) |
+| **ZeroDayHeist CTF** | [View Certificate](./CTF/ZeroDayHeist-CTF/ZeroDayHeist_CTF.jpeg) |
 
 ---
 
